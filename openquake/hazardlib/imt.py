@@ -171,6 +171,7 @@ class IA(IMT):
     the acceleration of transient seismic waves. Units are ``m/s``.
     """
 
+
 class IH(IMT):
     """
     Housner intensity. Determines the intensity of the response spectra
